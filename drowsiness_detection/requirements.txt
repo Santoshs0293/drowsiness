@@ -1,0 +1,9 @@
+imutils
+dlib
+opencv-python
+numpy
+flask
+flask-login
+pymongo
+pika
+gpiozero
